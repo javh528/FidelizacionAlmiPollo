@@ -1,0 +1,113 @@
+{
+    "Pollo Asado": [
+        {
+            "id": 1,
+            "nombre": "Pollo Entero",
+            "descripcion": "Papas al vapor + ají + salsa",
+            "precio": 36.000,
+            "imagen": "/img/PolloEntero.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Medio Pollo",
+            "descripcion": "Papas al vapor + ají + salsa",
+            "precio": 19.000,
+            "imagen": "/img/MedioPollo.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Cuarto de pollo",
+            "descripcion": "Papas al vapor + ají + salsa",
+            "precio": 10.000,
+            "imagen": "/img/CuartoPollo.png"
+        }
+    ],
+    "Pollo Broaster": [
+        {
+            "id": 6,
+            "nombre": "Pollo Entero",
+            "descripcion": "Papas al vapor + Salsa o Miel",
+            "precio": 40.000,
+            "imagen": "/img/PolloBroasterEntero.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Medio Pollo",
+            "descripcion": "Papas al vapor + Salsa o Miel",
+            "precio": 19.000,
+            "imagen": "/img/MedioPolloBroaster.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Cuarto de Pollo",
+            "descripcion": "Papas al vapor + Salsa o Miel",
+            "precio": 10.000,
+            "imagen": "/img/CuartoPolloBroaster.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Octavo de Pollo",
+            "descripcion": "Papas al vapor + Salsa o Miel",
+            "precio": 5.000,
+            "imagen": "/img/OctavoPolloBroaster.jpg"
+        }
+    ],
+    "Bebidas": [
+        {
+            "id": 30,
+            "nombre": "Cocacola mini",
+            "descripcion": " ",
+            "precio": 2.000,
+            "imagen":"/img/cocaMini.png"
+        },
+        {
+            "id": 31,
+            "nombre": "Cocacola 400 ml",
+            "descripcion": " ",
+            "precio": 4.000,
+            "imagen":"/img/Coca400ml.png"
+        },
+        {
+            "id": 32,
+            "nombre": "Cocacola litro",
+            "descripcion": " ",
+            "precio": 6.000,
+            "imagen":"/img/cocaLItro.png"
+        },
+        {
+            "id": 33,
+            "nombre": "Cocacola 1.5 ml",
+            "descripcion": " ",
+            "precio": 7.000,
+            "imagen":"/img/CocaLItroYmedio.png"
+        },
+        {
+            "id": 34,
+            "nombre": "Postobon Mini",
+            "descripcion": " ",
+            "precio": 2.000,
+            "imagen":"/img/PosMini.png"
+        },
+        {
+            "id": 35,
+            "nombre": "Postobon Personal",
+            "descripcion": " ",
+            "precio": 3.500,
+            "imagen":"/img/Pos400ML.png"
+        },
+        {
+            "id": 36,
+            "nombre": "Postobon Litro",
+            "descripcion": " ",
+            "precio": 6.000,
+            "imagen":"/img/posLitro.jpg"
+        },
+        {
+            "id": 37,
+            "nombre": "Postobon 1.5 ml",
+            "descripcion": " ",
+            "precio": 7.000,
+            "imagen":"/img/PosLItroYmedio.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Promociones": [
+        {
+            "id": 1,
+            "nombre": "Combo Familiar Broaster",
+            "imagen": "/img/combo1.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Combo Familiar Asado",
+            "imagen": "/img/combo2.png"
+        }
+    ]
+}
